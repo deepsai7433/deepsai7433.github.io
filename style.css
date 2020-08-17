@@ -30,6 +30,7 @@ hr {
 header.startup {
   background-position:center;
   height: 100%;
+  margin-left:400px;
 }
 
 header.startup hr {
